@@ -1,5 +1,7 @@
-Master Branch: https://github.com/WilliamRamsey/ezDB/tree/master
-Development Branch: https://github.com/WilliamRamsey/ezDB/tree/development
+# EZdb
+
+Master Branch: <https://github.com/WilliamRamsey/ezDB/tree/master>
+Development Branch: <https://github.com/WilliamRamsey/ezDB/tree/development>
 
 9/20/2023
 Initial commit
