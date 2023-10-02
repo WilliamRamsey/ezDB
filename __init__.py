@@ -12,4 +12,4 @@ class MySQL_connnection:
         database = database)
         self.mycursor = self.connection.cursor()
 
-mydb = MySQL_connnection(host = '127.0.0.1', user='root', password='thefort', database="EZdb")
+mydb = MySQL_connnection(host = 'localhost', user='root', password='pV=nRt89', database="ezdb")
