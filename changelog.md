@@ -15,4 +15,7 @@ Created classes for sql schemas (schema, table, row, column)
 9/27/2023
 Added code to connect SQL_connection to MySQL server
 
+10/2/2023
+Successfully connected to SQL database
+
 ## Production
