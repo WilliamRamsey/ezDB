@@ -18,4 +18,7 @@ Added code to connect SQL_connection to MySQL server
 10/2/2023
 Successfully connected to SQL database
 
+10/17/2023
+Built function to parse input class
+
 ## Production
